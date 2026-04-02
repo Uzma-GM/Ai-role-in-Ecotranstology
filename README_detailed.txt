@@ -1,5 +1,3 @@
-README.txt
-
 Title: Integrating Eco-Translatology with Artificial Intelligence:
 Enhancing Cultural Adaptation in Multilingual Educational Content
 Translation
